@@ -1,5 +1,2 @@
-http.client
-re
-json
 beautifulsoup4>=4.9.3
 pysocks
