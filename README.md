@@ -12,3 +12,11 @@ For this to work you will need to have those python libraries installed :
 - `bs4` (Beautiful Soup)
 - `socks`
 - `json`
+## Installation
+
+Install my-project with pip :
+
+```bash
+pip install -r requirements.txt
+```
+    
