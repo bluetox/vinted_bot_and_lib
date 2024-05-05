@@ -12,6 +12,9 @@ For this to work you will need to have those python libraries installed :
 - `bs4` (Beautiful Soup)
 - `socks`
 - `json`
+
+You will also need proxies, the bot supports tor running on port 9050 but also free proxies and authentication proxies.
+
 ## Installation
 
 Install my-project with pip :
