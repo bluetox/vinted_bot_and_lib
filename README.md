@@ -19,4 +19,20 @@ Install my-project with pip :
 ```bash
 pip install -r requirements.txt
 ```
-    
+
+## How it works
+
+This bot utilises the vinted api to first filter interresting items. 
+
+All requests are routed trough the tor service on port 9050. 
+
+Then gets the html of the item page to extract a maximum of 4 pictures. 
+
+Then it sends another request to the api to get the seller's rating, comments... 
+
+You will have to complete the config file.
+
+The bot supports multiprocessing so it is possible to send data to multiple channels without loosing speed.
+
+You will have to create a discord bot for which there is a tutorial included, and save the token.
+
