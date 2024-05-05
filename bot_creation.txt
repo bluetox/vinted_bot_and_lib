@@ -1,0 +1,14 @@
+First to create your bot you need to go to : https://discord.com/developers/docs/quick-start/getting-started
+
+Click on the blue "create app" button.
+
+If you are not already you will have to sign into your discord account.
+
+(may I recommend that you do not use your normal discord account but a new one just for developpement as you might not want your data to be related to this bot)
+
+Give a name to your app
+
+Welcome to your app management space.
+
+Open the navigation bar at the top left corner of the page.
+
